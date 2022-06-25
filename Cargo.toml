@@ -9,5 +9,7 @@ edition = "2021"
 enigo = "0.0.14"
 scrap = "0.5"
 repng = "0.2"
+opencv = "0.64"
 
 [dev-dependencies]
+show-image = "0.12.3"
